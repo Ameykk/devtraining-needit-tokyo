@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="029f847f475629103bbe7cb2a36d4310" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element default="Docu" label="Comp" max_length="10" name="comp" type="field_name"/>
+    </element>
+</database>
